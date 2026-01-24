@@ -1,3 +1,3 @@
-module matdisk2025-uts-kelompok7
+module matdisk2025_UAS
 
 go 1.25.5
